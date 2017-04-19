@@ -1,2 +1,2 @@
 key "b5fdd77aaef60ef6e316ffce19aa5679795ea333befe66f2fc9b09d66ab28929";
-remote ipv4 "gateway-02.mesh.pjodd.se" port 10006;
+remote ipv4 "gateway-01.mesh.pjodd.se" port 10006;
