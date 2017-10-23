@@ -1,0 +1,17 @@
+# pjodd-8416f9e4546e 
+cb0cad68669d6ddf370df43a54ecd1b932391c8db6a638874434a1f21d69e034
+
+Hostname
+pjodd-8416f9e4546e
+MAC address
+84:16:f9:e4:54:6e
+Hardware model
+TP-Link TL-WR841N/ND v12
+Gluon version
+v2017.1.1
+Firmware release
+0.6+exp20170721
+Site
+Pjodd
+Public VPN key
+n/a
