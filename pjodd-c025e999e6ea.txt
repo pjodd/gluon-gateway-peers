@@ -1,0 +1,17 @@
+# pjodd-c025e999e6ea 
+cbf05f03e9d9a30499594eb51861f7d0e4b1e91c22d2f5403884f659fe3e3b7c
+
+Hostname
+pjodd-c025e999e6ea
+MAC address
+c0:25:e9:99:e6:ea
+Hardware model
+TP-Link TL-MR3020 v1
+Gluon version
+v2017.1.1
+Firmware release
+0.6+exp20170721
+Site
+Pjodd
+Public VPN key
+n/a
