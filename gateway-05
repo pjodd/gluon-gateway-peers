@@ -1,5 +1,5 @@
 # gateway-05
 key "37e385141d5007243b6dccd4a14f72ea04b99f2d6288bcb744b777e2cba0f7d0";
-remote gw05.pjodd.se;
-remote ipv4 198.167.222.5:10006;
-remote ipv6 [2c0f:f930:0:4::5]:10006;
+remote 198.167.222.5:10006;
+remote [2c0f:f930:0:4::5]:10006;
+remote "gw05.pjodd.se" port 10006;
